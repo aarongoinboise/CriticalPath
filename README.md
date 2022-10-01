@@ -18,7 +18,6 @@ Example:
 S -1  2  0
 a -1 -1  0
 F -1 -1 -1
-<pre>
   
 I would recommend having a basic proficency on Critical Paths and Directed Acylic Graphs before using this program.
 
