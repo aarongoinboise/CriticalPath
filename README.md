@@ -13,10 +13,12 @@ be next to each other, no node should point to a previous node,
 and each node must only be one letter.
 
 Example:
+<pre>
    S  a  F
 S -1  2  0
 a -1 -1  0
 F -1 -1 -1
+<pre>
   
 I would recommend having a basic proficency on Critical Paths and Directed Acylic Graphs before using this program.
 
