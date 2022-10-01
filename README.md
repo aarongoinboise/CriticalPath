@@ -1,7 +1,7 @@
 # CriticalPath
 Finds the Critical Path of a topological sequence. Prints the earliest completion time, latest completion time, and SlackTime for each node in the sequence. Properly formatted text files are requied for usage, and four are provided in this directory.
 
-# Usage
+## Usage
 java CriticalPath <file name>
 
 file name (required): the name of a file containing a correctly formatted and evenly spaced
