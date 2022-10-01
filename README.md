@@ -13,10 +13,10 @@ be next to each other, no node should point to a previous node,
 and each node must only be one letter.
 
 Example:<br />
-   S  a  F<br />
-S -1  2  0<br />
-a -1 -1  0<br />
-F -1 -1 -1<br />
+___S__a__F<br />
+S_-1__2__0<br />
+a_-1_-1__0<br />
+F_-1_-1_-1<br />
   
 I would recommend having a basic proficency on Critical Paths and Directed Acylic Graphs before using this program.
 
