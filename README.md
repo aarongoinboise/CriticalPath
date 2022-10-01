@@ -12,7 +12,7 @@ existing nodes. All values in the S column must be -1, and all values in the F r
 be next to each other, no node should point to a previous node,
 and each node must only be one letter.
 
-Example:
+Example:<br />
    S  a  F<br />
 S -1  2  0<br />
 a -1 -1  0<br />
