@@ -16,7 +16,7 @@ Example:\
 ___S__a__F\
 S_-1__2__0\
 a_-1_-1__0\
-F_-1_-1_-1\
+F_-1_-1_-1
   
 I would recommend having a basic proficency on Critical Paths and Directed Acylic Graphs before using this program.
 
