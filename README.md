@@ -12,11 +12,11 @@ existing nodes. All values in the S column must be -1, and all values in the F r
 be next to each other, no node should point to a previous node,
 and each node must only be one letter.
 
-Example:<br />
-___S__a__F<br />
-S_-1__2__0<br />
-a_-1_-1__0<br />
-F_-1_-1_-1<br />
+Example:\
+___S__a__F\
+S_-1__2__0\
+a_-1_-1__0\
+F_-1_-1_-1\
   
 I would recommend having a basic proficency on Critical Paths and Directed Acylic Graphs before using this program.
 
